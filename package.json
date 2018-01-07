@@ -1,6 +1,6 @@
 {
   "name": "sheetql",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "sheetQL allows developers to query Google Sheets using Google Sheets Query Language",
   "main": "index.js",
   "repository": {

@@ -5,7 +5,7 @@ sheetQL
 Install
 =======
 ```bash
-npm install sheetQL
+npm install sheetql
 ```
 
 
