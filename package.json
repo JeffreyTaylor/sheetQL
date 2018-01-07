@@ -1,0 +1,29 @@
+{
+  "name": "sheetql",
+  "version": "1.0.0",
+  "description": "sheetQL allows developers to query Google Sheets using Google Sheets Query Language",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeffreyTaylor/sheetQL.git"
+  },
+  "keywords": [
+    "google",
+    "sheets"
+  ],
+  "author": "Jeffrey Taylor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JeffreyTaylor/sheetQL/issues"
+  },
+  "homepage": "https://github.com/JeffreyTaylor/sheetQL#readme",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "lodash.tail": "^4.1.1",
+    "lodash.trim": "^4.5.1",
+    "lodash.zipobject": "^4.1.3"
+  }
+}
