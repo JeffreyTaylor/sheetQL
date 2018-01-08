@@ -22,12 +22,9 @@ Create a Google Sheet with the first row as column names
 Example
 =======
 ```javascript
-const SheetQL = require('sheetQL');
-const sheet = new SheetQL("SPREADSHEET_KEY");
+const Sheetql = require('sheetql');
+const sheet = new Sheetql('SPREADSHEET_KEY');
 
-
-(async function () {
-  const result = await sheet.query('SELECT *');
-  console.log(result);
-})();
+const result = await sheet.query('SELECT *');
+console.log(result);
 ```
